@@ -1,0 +1,20 @@
+{
+  "name": "clase-7-router-mouter",
+  "version": "1.0.0",
+  "description": "Ejercicios clase 7 router y mouter",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "Martin JL",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
